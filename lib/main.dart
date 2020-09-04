@@ -1,4 +1,4 @@
-import 'package:contador_mobx/count.dart';
+import 'package:contador_mobx/counter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 
